@@ -4,6 +4,9 @@ The Extreme Events theme, as its name suggests, focuses on the analysis of data 
 
 #### Installation
 
+##### iris
+```pip install iris```
+
 ##### Beautiful Soup
 Requires beautiful soup for xml processing
 ```pip install bs4```
